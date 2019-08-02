@@ -2,6 +2,8 @@
 
 ## 2019
 
++   [微店技术周刊(总第 26 期)-本期主编-何会会](https://github.com/weidian-inc/weidian-tech-blog/issues/5)(2019/08/02)
+
 ## 2018
 
 +   [node.js与比特币 -- 杨力](https://github.com/weidian-inc/weidian-tech-blog/issues/3)
