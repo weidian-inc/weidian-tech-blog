@@ -2,9 +2,13 @@
 
 ## 微店技术周刊
 
-+   [微店技术周刊(总第 28 期)-本期主编-刘远洋](https://github.com/weidian-inc/weidian-tech-blog/issues/7)(2019/08/16)
-+   [微店技术周刊(总第 27 期)-本期主编-张尚金](https://github.com/weidian-inc/weidian-tech-blog/issues/7)(2019/08/09)
-+   [微店技术周刊(总第 26 期)-本期主编-何会会](https://github.com/weidian-inc/weidian-tech-blog/issues/5)(2019/08/02)
++   [微店技术周刊(总第 32 期) - 本期主编 - 刘远洋](https://github.com/weidian-inc/weidian-tech-blog/issues/12)(2019/09/20)
++   [微店技术周刊(总第 31 期) - 本期主编 - 何会会](https://github.com/weidian-inc/weidian-tech-blog/issues/11)(2019/09/12)
++   [微店技术周刊(总第 30 期) - 本期主编 - 张尚金](https://github.com/weidian-inc/weidian-tech-blog/issues/10)(2019/09/06)
++   [微店技术周刊(总第 29 期) - 本期主编 - 杨力](https://github.com/weidian-inc/weidian-tech-blog/issues/9)(2019/08/30)
++   [微店技术周刊(总第 28 期) - 本期主编 - 刘远洋](https://github.com/weidian-inc/weidian-tech-blog/issues/7)(2019/08/16)
++   [微店技术周刊(总第 27 期) - 本期主编 - 张尚金](https://github.com/weidian-inc/weidian-tech-blog/issues/7)(2019/08/09)
++   [微店技术周刊(总第 26 期) - 本期主编 - 何会会](https://github.com/weidian-inc/weidian-tech-blog/issues/5)(2019/08/02)
 
 ## 前端团队
 
