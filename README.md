@@ -2,7 +2,8 @@
 
 ## 微店技术周刊
 
-+   [微店技术周刊(总第 33 期)-本期主编-刘远洋](https://github.com/weidian-inc/weidian-tech-blog/issues/13)(2019/09/27)
++   [微店技术周刊(总第 34 期) - 本期主编 - 张尚金](https://github.com/weidian-inc/weidian-tech-blog/issues/14)(2019/10/18)
++   [微店技术周刊(总第 33 期) - 本期主编 - 刘远洋](https://github.com/weidian-inc/weidian-tech-blog/issues/13)(2019/09/27)
 +   [微店技术周刊(总第 32 期) - 本期主编 - 刘远洋](https://github.com/weidian-inc/weidian-tech-blog/issues/12)(2019/09/20)
 +   [微店技术周刊(总第 31 期) - 本期主编 - 何会会](https://github.com/weidian-inc/weidian-tech-blog/issues/11)(2019/09/12)
 +   [微店技术周刊(总第 30 期) - 本期主编 - 张尚金](https://github.com/weidian-inc/weidian-tech-blog/issues/10)(2019/09/06)
